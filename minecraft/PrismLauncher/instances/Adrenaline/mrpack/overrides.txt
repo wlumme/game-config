@@ -1,0 +1,7 @@
+config/crash_assistant/modlist.json
+config/crash_assistant/config.toml
+config/yosbr/options.txt
+config/yosbr/config/vmp.properties
+config/yosbr/config/modernfix-mixins.properties
+config/yosbr/config/dynamic_fps.json
+config/yosbr/config/ferritecore.mixin.properties
