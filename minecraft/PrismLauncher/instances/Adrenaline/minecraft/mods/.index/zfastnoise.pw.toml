@@ -1,0 +1,16 @@
+filename = 'zfastnoise-1.0.19+1.21.11.jar'
+name = 'Fast Noise'
+side = 'server'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.21.11' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '6dba3407c73716f978c29e4e569335f0a9e85219b675025880491017ae9af9a0f4b958dc89905fbc2671c0b754aaae4c30f7bf8d9cccc42b303f34a88b473c83'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/OnlVIpq5/versions/IuJI34GM/zfastnoise-1.0.19%2B1.21.11.jar'
+
+[update.modrinth]
+mod-id = 'OnlVIpq5'
+version = 'IuJI34GM'
