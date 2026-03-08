@@ -1,9 +1,9 @@
 Controls =  
 {
 	cursorScale = 1,
-	enableChat = false,
+	enableChat = true,
 	enableCustomBadges = true,
-	hotkey_preset = "keydefaults",
+	hotkey_preset = "keydefaults_custom",
 	invertDeclination = 0,
 	invertPan = 1,
 	lockCursor = true,
@@ -91,6 +91,7 @@ Sound =
 }
 Tutorial_DoWDE =  
 {
+	HasClickedMulti = true,
 	HasClickedSkirmish = true,
 	HasPlayedTutorial = false,
 }
